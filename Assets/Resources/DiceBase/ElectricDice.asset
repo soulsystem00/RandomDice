@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 557966a07f51de64b830c87436e91ad9, type: 3}
+  m_Name: ElectricDice
+  m_EditorClassIdentifier: 
+  _name: ElectricDice
+  description: ElectricDice
+  sprite: {fileID: 21300000, guid: 958e2775479f3b041a3bcc5c320c4fe0, type: 3}
+  attackable: 1
+  buff: 0
+  attack: 30
+  attackPerUpgrade: 10
+  effect: 30
+  effectPerUpgrade: 20
+  speed: 0.7
+  diceEyeColor: {r: 1, g: 1, b: 0, a: 1}
+  bullet: {fileID: 3468022017515562979, guid: 04f533d1502e0a74b935688ec1eb5859, type: 3}
